@@ -1,1 +1,100 @@
-venv
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Diretório do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente Virtual
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de Configuração do Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Diretórios do Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.pid
+*.swo
+*.swp
+*.sqlite3
+*.cover
+.coverage
+.coverage.*
+*.log
+coverage_html_report/
+htmlcov/
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+.pytest_cache/
+.tox/
+build/
+dist/
+*.egg-info/
+.installed.cfg
+.eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+node_modules/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos de Teste e Configuração
+.testmondata
+.venv/
+.venv.bak/
+*.env
+*.env.*
+.envrc
+
+# Arquivos Temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Arquivos do Banco de Dados Local
+*.db
+
+# Arquivos e Diretórios do Static
+staticfiles/
+static/
+assets/
+
+# Diretório de Arquivos Estáticos Compilados
+staticfiles/
+
+# Diretório de Arquivos de Mídia
+media/
+
+# Arquivos de Deploy (Heroku)
+Procfile
+Procfile.windows
+
+# Logs do Projeto
+logs/
+
+# Outras Configurações
+local_settings.py
+.env
+
